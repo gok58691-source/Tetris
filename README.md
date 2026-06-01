@@ -1,7 +1,7 @@
 # Tetris
 俄羅斯方塊 雙人對戰 (Assembly)
 
-<img width="746" height="641" alt="image" src="https://github.com/user-attachments/assets/7497f7a8-a902-4371-ba1f-e671f79c1eec" />
+<img width="373" height="320.5" alt="image" src="https://github.com/user-attachments/assets/7497f7a8-a902-4371-ba1f-e671f79c1eec" />
 
 
 開發環境：  MASM 與 Irvine32 Library
